@@ -2,6 +2,6 @@
 It's an 2D game made with unity.
 
 
-![Monster Chase](https://photos.google.com/search/_tra_/photo/AF1QipOkXGHFBTIOZtooWSo1ibNmK5xAJeDnpph-9yap)
+![Monster Chase](https://photos.app.goo.gl/VAntt5NoHscasVBR7)
 
-https://photos.app.goo.gl/VAntt5NoHscasVBR7
+
